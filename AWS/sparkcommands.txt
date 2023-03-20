@@ -1,0 +1,14 @@
+Create a new master and worker: 
+cd %SPARK_HOME% 
+bin\spark-class2.cmd org.apache.spark.deploy.master.Master 
+
+start a worker 
+cd %SPARK_HOME% 
+bin\spark-class2.cmd org.apache.spark.deploy.worker.Worker -c 1 -m 1G spark://192.168.0.164:7077 
+
+pass program to spark worker 
+python C:\Users\okohe\OneDrive\Desktop\RealTimeWeather\src\PySparkTest\spark-basic.py
+
+localhost:4040
+
+localhost:8080
