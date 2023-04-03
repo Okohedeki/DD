@@ -11,7 +11,7 @@ date = '3192023'
 active_drug_url = 'https://www.accessdata.fda.gov/cder/ndcxls.zip'
 unfinished_drug_url = 'https://www.accessdata.fda.gov/cder/ndc_unfinished.zip'
 compound_drug_url = 'https://www.accessdata.fda.gov/cder/compounders_ndc_directory.zip'
-excluded_drug_url = 'https://www.accessdata.fda.gov/cder/compounders_ndc_directory.zip'
+excluded_drug_url = 'https://www.accessdata.fda.gov/cder/ndc_excluded.zip'
 
 def download_file(url, filename, date, ext = '.zip'):
     local_filename = filename+date+ext
