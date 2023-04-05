@@ -1,0 +1,14 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5753335/table/tbl1/?report=objectonly
+https://hmdb.ca/
+https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system
+http://www.t3db.ca/
+https://www.acs.org/careers/chemical-sciences/fields/cheminformatics.html
+https://foodb.ca/
+https://www.smpdb.ca/
+https://clinicaltrials.gov/
+https://www.fda.gov/drugs/development-approval-process-drugs/drug-approvals-and-databases
+Drug sourcing 
+https://www.nature.com/articles/nature.2012.10220
+DrugBank’s DDI checker allows 
+https://pubchem.ncbi.nlm.nih.gov/compound/24822371#section=Drug-Labels-for-Ingredients
+https://drughunter.com/resource/drug-discovery-websites-and-databases/

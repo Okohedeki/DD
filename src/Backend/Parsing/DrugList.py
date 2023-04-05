@@ -49,6 +49,9 @@ df_active_product = dateCleanUp(df_active_product, 'LISTING_RECORD_CERTIFIED_THR
 df_active_package = dateCleanUp(active_drug_packaging_df, 'STARTMARKETINGDATE', 'Start_Marketing_date')
 df_active_package = dateCleanUp(active_drug_packaging_df, 'ENDMARKETINGDATE', 'End_Marketing_date')
 
+df_excluded_package = dateCleanUp(excluded_drug_package_df, 'STARTMARKETINGDATE', 'Start_Marketing_date')
+df_excluded_package = dateCleanUp(excluded_drug_package_df, 'ENDMARKETINGDATE', 'End_Marketing_date')
+
 
 
 # active_drug_product_df['Start_Marketing_year'] = active_drug_product_df['STARTMARKETINGDATE'].astype(str).str[0:4]
