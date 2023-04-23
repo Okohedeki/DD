@@ -12,3 +12,28 @@ https://www.nature.com/articles/nature.2012.10220
 DrugBank’s DDI checker allows 
 https://pubchem.ncbi.nlm.nih.gov/compound/24822371#section=Drug-Labels-for-Ingredients
 https://drughunter.com/resource/drug-discovery-websites-and-databases/
+
+
+Computational chemist/machine learning engineer
+analytical chemist 
+HPLC 
+permability of drug
+ADME 
+Quantitative Structure-Activity Relationship
+ chemical space, cheminformatics, quantitative structure-activity relationship (QSAR), quantitative structure-property relationship (QSPR), proteochemometric modeling
+ https://www.youtube.com/watch?v=TzThyoL4sU4&ab_channel=DataProfessor
+ https://peerj.com/articles/2322/
+ https://peerj.com/articles/11716/
+ https://github.com/chaninlab/
+ RCSB Protein Data Bank
+ http://www.cuilab.cn/drugpath
+ https://smpdb.ca/view/SMP0000265
+ https://go.drugbank.com/drugs/DB01261
+
+
+ https://www.cms.gov/medicare/prescription-drug-coverage/prescriptiondrugcovcontra/rxcontracting_formularyguidance
+ https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=205.50#:~:text=Sec.,of%20prescription%20drug%20distribution%20records.&text=(5)%20Be%20free%20from%20infestation,(b)%20Security.
+
+ https://www.reddit.com/r/medicine/comments/u6tyxl/formulary_tools/
+
+ https://www.amcp.org/about/managed-care-pharmacy-101/concepts-managed-care-pharmacy/formulary-management
